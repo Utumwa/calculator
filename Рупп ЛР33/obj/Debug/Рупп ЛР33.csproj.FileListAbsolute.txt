@@ -1,0 +1,16 @@
+C:\Users\kolia\source\repos\Рупп ЛР33\bin\Debug\Рупп ЛР33.exe.config
+C:\Users\kolia\source\repos\Рупп ЛР33\bin\Debug\Рупп ЛР33.exe
+C:\Users\kolia\source\repos\Рупп ЛР33\bin\Debug\Рупп ЛР33.pdb
+C:\Users\kolia\source\repos\Рупп ЛР33\obj\Debug\Рупп ЛР33.csproj.AssemblyReference.cache
+C:\Users\kolia\source\repos\Рупп ЛР33\obj\Debug\Рупп ЛР33.csproj.SuggestedBindingRedirects.cache
+C:\Users\kolia\source\repos\Рупп ЛР33\obj\Debug\MainWindow.g.cs
+C:\Users\kolia\source\repos\Рупп ЛР33\obj\Debug\App.g.cs
+C:\Users\kolia\source\repos\Рупп ЛР33\obj\Debug\Рупп ЛР33_MarkupCompile.cache
+C:\Users\kolia\source\repos\Рупп ЛР33\obj\Debug\Рупп ЛР33_MarkupCompile.lref
+C:\Users\kolia\source\repos\Рупп ЛР33\obj\Debug\MainWindow.baml
+C:\Users\kolia\source\repos\Рупп ЛР33\obj\Debug\Рупп ЛР33.g.resources
+C:\Users\kolia\source\repos\Рупп ЛР33\obj\Debug\Рупп_ЛР33.Properties.Resources.resources
+C:\Users\kolia\source\repos\Рупп ЛР33\obj\Debug\Рупп ЛР33.csproj.GenerateResource.cache
+C:\Users\kolia\source\repos\Рупп ЛР33\obj\Debug\Рупп ЛР33.csproj.CoreCompileInputs.cache
+C:\Users\kolia\source\repos\Рупп ЛР33\obj\Debug\Рупп ЛР33.exe
+C:\Users\kolia\source\repos\Рупп ЛР33\obj\Debug\Рупп ЛР33.pdb
